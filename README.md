@@ -1,5 +1,5 @@
 # Result-Management-System
-Build this project to simulate all the basic controls that an actual required of store result.
+Build this project to simulate all the basic controls that an actual required to store result.
 
 Students can see their result by entering their roll number.
 
