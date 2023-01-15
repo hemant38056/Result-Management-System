@@ -10,7 +10,7 @@ FUNCTIONALITIES-
 4.Admin can enter Marks of the registered Students.
 5.Admin can see all registered students.
 6.Admin can see all registered students result at same time.
-4.Student views Results by entering their Roll number.
+7.Student views Results by entering their Roll number.
 
 TECHNOLOGIES USED - 
 JAVA
